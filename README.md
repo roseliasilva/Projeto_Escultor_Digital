@@ -1,5 +1,5 @@
 # Projeto Escultor Digital - Parte 1
-Universidade Federal do Rio Grande do Norte (UFRN) - DCA1202: Programação Avançada.
+Universidade Federal do Rio Grande do Norte (UFRN) - DCA1202: Programação Avançada.  
 Professor: Agostinho de Medeiros Brito Junior.
 
 - Neste projeto construímos uma ferramenta em C++ para realizar esculturas em blocos representados por matrizes digitais parecido com o jogo Minecraft. O projeto consiste em dois módulos: uma classe em C++ destinada à interpretação de um arquivo em formato de texto simples e geração das matrizes tridimensionais. Teremos no final uma visualização como um "paint 3D" do nosso objeto, que será o Plankton, da série de animação Bob Esponja Calça Quadrada.
